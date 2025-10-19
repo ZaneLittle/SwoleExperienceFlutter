@@ -1,5 +1,7 @@
 # SwoleExperience
 
+*NOTE:* This repo is deprecated. The new app is https://github.com/ZaneLittle/SwoleExperienceReact
+
 SwoleExperience is an all-in-one Weight Tracker, Macro Tracker and Workout Planner!
 
 ### Current State of Things
